@@ -1,0 +1,23 @@
+# Build artifacts and temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.pdb
+*.suo
+*.user
+*.VC.db
+*.sdf
+
+# IDE-specific files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.Rider/
+
+# Other
+Collections/
+Developers/
+*.mod
